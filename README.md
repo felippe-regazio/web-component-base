@@ -1,2 +1,3 @@
-# web-component-base
-Base component for Web Component spec made with vanilla JS
+# Web Element Base
+
+Base element to build web elements with vanilla JS
